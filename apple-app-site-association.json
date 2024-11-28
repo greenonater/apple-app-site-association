@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "42KY245KM9.com.silverthornegreen.PinkJobBlueJob",
+                "paths": ["/link-to-task-list/*"]
+            }
+        ]
+    }
+}
